@@ -28,7 +28,7 @@ To set up **DeployMate**, you will need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pranav687/deploy-mate
+   git clone https://github.com/BKothari510/Automated-Deployment-Pipeline.git
    cd deploy-mate
    ```
 
